@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+We are the developers of **ETS2LA**, nice to meet 'ya.  
+You can see a list of all of us on the right hand side of this page.  
+
+We hope that you find our work useful, and most of all we hope that you are willing to contact us when anything goes wrong.  
+
+## Contacting us
+
+**Contacting us is the fastest way to get your problem fixed!**  
+1. Through the "feedback" menu in app. This will send us a message.
+2. Through the discord linked at the top of this page, this way is fastest, and we can directly talk to you on the issue at hand!
+3. Through the email linked at the top of this page. Keep this as a last resort, since I don't like my email getting clogged up :D
+
+## Other resources
+
+We also have a [wiki](https://wiki.tumppi066.fi/) and a [youtube channel](https://www.youtube.com/@Tumppi066/videos) with *(somewhat)* up to date tutorials
+
 <!--
 
 **Here are some ideas to get you started:**
