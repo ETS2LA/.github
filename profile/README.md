@@ -14,7 +14,7 @@ We hope that you find our work useful, and most of all we hope that you are will
 
 ## Other resources
 
-We also have a [wiki](https://wiki.tumppi066.fi/) and a [youtube channel](https://www.youtube.com/@Tumppi066/videos) with *(somewhat)* up to date tutorials
+We also have a [wiki](https://wiki.ets2la.com/) and a [youtube channel](https://www.youtube.com/@Tumppi066/videos) with *(somewhat)* up to date tutorials
 
 <!--
 
