@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 We are the developers of **ETS2LA**, nice to meet 'ya.  
-You can see a list of _most_ of us on the right hand side of this page.  
+You can see a list of the core team on the right side of this page. Know that there are many more of us out there though!
 
 We hope that you find our work useful, and most of all we hope that you are willing to contact us when anything goes wrong.  
 
