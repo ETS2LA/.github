@@ -1,19 +1,19 @@
 ## Hi there 👋
-
 We are the developers of **ETS2LA**, nice to meet 'ya.  
 You can see a list of the core team on the right side of this page. Know that there are many more of us out there though!
 
 We hope that you find our work useful, and most of all we hope that you are willing to contact us when anything goes wrong.  
 
 ## Contacting us
-
 **Contacting us is the fastest way to get your problem fixed!**  
 1. Through the discord linked at the top of this page, this way is fastest, and we can directly talk to you on the issue at hand!
 2. Through the email linked at the top of this page. We'd prefer you use the discord, but we also understand not everyone likes it.
 
 ## Other resources
-
 We also have a [website](https://ets2la.com/) and a [youtube channel](https://www.youtube.com/@Tumppi066/videos) with *(somewhat)* up to date tutorials
+
+## Supporting Development
+I have enabled GitHub sponsorship for my account. Please see [here](https://github.com/sponsors/Tumppi066).
 
 <!--
 
