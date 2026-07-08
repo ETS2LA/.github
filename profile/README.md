@@ -1,3 +1,5 @@
+![HEADER](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ETS2LA&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=43&rotate=0&fontSize=80&desc=For%20ETS2%20And%20ATS)
+
 ## Hi there 👋
 We are the developers of **ETS2LA**, nice to meet 'ya.  
 You can see a list of the core team on the right side of this page. Know that there are many more of us out there though!
